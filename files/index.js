@@ -6,7 +6,7 @@ recon()
 
 function recon(){
     document.getElementById('cards').innerHTML="";
-    fetch("./data.json")
+    fetch("files/data.json")
 .then(response => {
    return response.json();
 })
