@@ -15,7 +15,7 @@
         "link":"https://www.google.com/search?q=site%3Adomainname+%22password%22+filetype%3Adoc+%7C+filetype%3Apdf+%7C+filetype%3Adocx+%7C+filetype%3Axls+%7C+filetype%3Adat+%7C+filetype%3Alog&sxsrf=ALeKk02ZhKFtCfAnRTa4537XZgPHMsgsnA%3A1627629517013&ei=zacDYcUCxuHPuw_jv65Q&oq=site%3Akufos.ac.in+%22password%22+filetype%3Adoc+%7C+filetype%3Apdf+%7C+filetype%3Adocx+%7C+filetype%3Axls+%7C+filetype%3Adat+%7C+filetype%3Alog&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsANKBAhBGABQyfIBWMqUAmD0lQJoAHADeACAAQCIAQCSAQCYAQigAQHIAQXAAQE&sclient=gws-wiz&ved=0ahUKEwiFnb-5oIryAhXG8HMBHeOfCwoQ4dUDCA8&uact=5"
     },
     "3":{
-        "img":"https://lh3.googleusercontent.com/proxy/HDrz5CmEQ9-vHjNkkFSnzPbadyLjZMrsAa2yWqQ3KF1gP1-VlfBNCpMxfa5S-zggT0zYgBMQED3wmHu3CBQ3Dwsq0KLx8xDdIw",
+        "img":"https://i.ibb.co/0cFWcbL/unnamed.jpg",
         "name":"Directory Listing",
         "link":"https://www.google.com/search?q=site%3Adomainname+intitle%3Aindex.of++%7C+%22parent+directory%22&sxsrf=ALeKk00eh_WPMdkUI6aUbTIJCLkeDVCPrA%3A1627628439626&ei=l6MDYdzaJdDA3LUP766okAk&oq=site%3Akufos.ac.in+intitle%3Aindex.of++%7C+%22parent+directory%22&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGAFQ3hhYuzJg8mpoAXAAeACAAXuIAcEDkgEDMC40mAEAoAEBwAEB&sclient=gws-wiz&ved=0ahUKEwicguG3nIryAhVQILcAHW8XCpIQ4dUDCA8"
     },
@@ -63,6 +63,40 @@
         "img":"https://i.ibb.co/HVJrS8F/12831199-s-280-v-4.png",
         "name":"Search in crt.sh",
         "link":"https://crt.sh/?q=domainname"
+    },
+    "13":{
+        "img":"https://i.ibb.co/KjcXv3H/pngwing-com.png",
+        "name":"S3 Bucket",
+        "link":"https://google.com/search?q=site:.s3.amazonaws.com 'domainname'"
+    },
+    "14":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png",
+        "name":"Search in StackOverflow",
+        "link":"https://google.com/search?q=site:stackoverflow.com 'domainname'"
+    },
+    "15":{
+        "img":"https://upload.wikimedia.org/wikipedia/en/3/35/Pastebin.com_logo.png",
+        "name":"Search in pasting sites",
+        "link":"https://google.com/search?q=site:pastebin.com | site:paste2.org | site:pastehtml.com | site:slexy.org | site:snipplr.com | site:snipt.net | site:textsnip.com | site:bitpaste.app | site:justpaste.it | site:heypasteit.com | site:hastebin.com | site:dpaste.org | site:dpaste.com | site:codepad.org | site:jsitor.com | site:codepen.io | site:jsfiddle.net | site:dotnetfiddle.net | site:phpfiddle.org | site:ide.geeksforgeeks.org | site:repl.it | site:ideone.com | site:paste.debian.net | site:paste.org | site:paste.org.ru | site:codebeautify.org  | site:codeshare.io | site:trello.com 'domainname'"
+    },
+    "16":{
+        "img":"https://www.lenarjisse.com/images/cms-logo.png",
+        "name":"What CMS?",
+        "link":"https://whatcms.org/?s=domainname"
+    },
+    "17":{
+        "img":"https://pngimg.com/uploads/wordpress/wordpress_PNG6.png",
+        "name":"WordPress Contents",
+        "link":"https://google.com/search?q=site:domainname inurl:wp- | inurl:wp-content | inurl:plugins | inurl:uploads | inurl:themes | inurl:download"
+    },
+    "18":{
+        "img":"https://pngimg.com/uploads/wordpress/wordpress_PNG6.png",
+        "name":"Wordpress deep search",
+        "link":"http://wwwb-dedup.us.archive.org:8083/cdx/search?url=domainname/&matchType=domain&collapse=digest&output=text&fl=original,timestamp&filter=urlkey:.*wp[-].*&limit=1000000&xx="
+    },
+    "19":{
+        "img":"https://static.thenounproject.com/png/635998-200.png",
+        "name":"Vulnerable search string",
+        "link":"https://google.com/search?q=site:domainname inurl:php?=id1 | inurl:index.php?id= | inurl:pageid= | inurl:.php?"
     }
-    
 }
