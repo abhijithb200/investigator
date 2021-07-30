@@ -1,0 +1,53 @@
+{
+    "0":{
+        "img":"https://www.wordfence.com/wp-content/uploads/2018/02/RedirectIcon.png",
+        "name":"Open Redirect",
+        "link":"https://www.google.com/search?q=site:domainname%20inurl:redir%20|%20inurl:url%20|%20inurl:redirect%20|%20inurl:return%20|%20inurl:src=http%20|%20inurl:r=http"
+    },
+    "1":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvrPQtHibo-m5ar32CStsU7w_2fh7UrVRRcA&usqp=CAU",
+        "name":"Robot txt",
+        "link":"https://www.google.com/search?q=domainname+robots.txt"
+    },
+    "2":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/9/97/Avast_Passwords_logo.png",
+        "name":"Password files",
+        "link":"https://www.google.com/search?q=site%3Adomainname+%22password%22+filetype%3Adoc+%7C+filetype%3Apdf+%7C+filetype%3Adocx+%7C+filetype%3Axls+%7C+filetype%3Adat+%7C+filetype%3Alog&sxsrf=ALeKk02ZhKFtCfAnRTa4537XZgPHMsgsnA%3A1627629517013&ei=zacDYcUCxuHPuw_jv65Q&oq=site%3Akufos.ac.in+%22password%22+filetype%3Adoc+%7C+filetype%3Apdf+%7C+filetype%3Adocx+%7C+filetype%3Axls+%7C+filetype%3Adat+%7C+filetype%3Alog&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsANKBAhBGABQyfIBWMqUAmD0lQJoAHADeACAAQCIAQCSAQCYAQigAQHIAQXAAQE&sclient=gws-wiz&ved=0ahUKEwiFnb-5oIryAhXG8HMBHeOfCwoQ4dUDCA8&uact=5"
+    },
+    "3":{
+        "img":"https://lh3.googleusercontent.com/proxy/HDrz5CmEQ9-vHjNkkFSnzPbadyLjZMrsAa2yWqQ3KF1gP1-VlfBNCpMxfa5S-zggT0zYgBMQED3wmHu3CBQ3Dwsq0KLx8xDdIw",
+        "name":"Directory Listing",
+        "link":"https://www.google.com/search?q=site%3Adomainname+intitle%3Aindex.of++%7C+%22parent+directory%22&sxsrf=ALeKk00eh_WPMdkUI6aUbTIJCLkeDVCPrA%3A1627628439626&ei=l6MDYdzaJdDA3LUP766okAk&oq=site%3Akufos.ac.in+intitle%3Aindex.of++%7C+%22parent+directory%22&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGAFQ3hhYuzJg8mpoAXAAeACAAXuIAcEDkgEDMC40mAEAoAEBwAEB&sclient=gws-wiz&ved=0ahUKEwicguG3nIryAhVQILcAHW8XCpIQ4dUDCA8"
+    },
+    "4":{
+        "img":"https://png2.cleanpng.com/sh/ef3cfd957c0a32368b3af6631fa1c259/L0KzQYm3WMAzN6ZokpH0aYP2gLBuTfNtcaEyeeR9LX3sc8P2kB9nfF5mkud7ZT32gb20hPF1aZNmi9c2bXnmgrF6jBZ1NaR2ReV0aXzvg368gsY0OWJmSKIENkO6QnA8VsE3OWI9T6MAM0O1QYq5U8IxO2k6RuJ3Zx==/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b6311a0096372.5616118715332192320385.png",
+        "name":"Database related",
+        "link":"https://www.google.com/search?q=site%3Adomainname+intext%3A%22sql+syntax+near%22+%7C+intext%3A%22syntax+error+has+occurred%22+%7C+intext%3A%22incorrect+syntax+near%22+%7C+intext%3A%22unexpected+end+of+SQL+command%22+%7C+intext%3A%22Warning%3A+mysql_connect%28%29%22+%7C+intext%3A%22Warning%3A+mysql_query%28%29%22+%7C+intext%3A%22Warning%3A+pg_connect%28%29%22+%7C+filetype%3Asqlext%3Asql+%7C+ext%3Adbf+%7C+ext%3Amdb&sxsrf=ALeKk01Pcmc_IpjufgipkgOqt46Ad9n1qg%3A1627634731457&ei=K7wDYdeoG-7gz7sP8_Cw4AM&oq=site%3Adomainname+intext%3A%22sql+syntax+near%22+%7C+intext%3A%22syntax+error+has+occurred%22+%7C+intext%3A%22incorrect+syntax+near%22+%7C+intext%3A%22unexpected+end+of+SQL+command%22+%7C+intext%3A%22Warning%3A+mysql_connect%28%29%22+%7C+intext%3A%22Warning%3A+mysql_query%28%29%22+%7C+intext%3A%22Warning%3A+pg_connect%28%29%22+%7C+filetype%3Asqlext%3Asql+%7C+ext%3Adbf+%7C+ext%3Amdb&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGABQupoDWLqaA2D-qgNoAHAAeACAAQCIAQCSAQCYAQagAQKgAQHAAQE&sclient=gws-wiz&ved=0ahUKEwiX6vfvs4ryAhVu8HMBHXM4DDwQ4dUDCA8"
+    },
+    "5":{
+        "img":"https://www.pinclipart.com/picdir/big/158-1589586_setting-gear-pie-chart-preferences-configure-easy-to.png",
+        "name":"Config and log files",
+        "link":"https://www.google.com/search?q=site:domainname ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini | ext:log"
+    },
+    "6":{
+        "img":"https://www.pngplay.com/wp-content/uploads/6/Backup-Logo-Transparent-Background.png",
+        "name":"Backup files",
+        "link":"https://www.google.com/search?q=site:domainname ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup"
+    },
+    "7":{
+        "img":"https://pic.onlinewebfonts.com/svg/img_382078.png",
+        "name":"Login Pages",
+        "link":"https://www.google.com/search?q=site:domainname inurl:login | inurl:signin | intitle:Login | intitle: signin | inurl:auth"
+    },
+    "8":{
+        "img":"https://hackr.io/tutorials/learn-php/logo/logo-phpx",
+        "name":"phpinfo()",
+        "link":"https://google.com/search?q=site:domainname ext:php intitle:phpinfo 'published by the PHP Group'"
+    },
+    "9":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+        "name":"Search in GitHub",
+        "link":"https://github.com/search?q=domainname"
+    }
+    
+}
