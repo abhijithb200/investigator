@@ -98,5 +98,10 @@
         "img":"https://static.thenounproject.com/png/635998-200.png",
         "name":"Vulnerable search string",
         "link":"https://google.com/search?q=site:domainname inurl:php?=id1 | inurl:index.php?id= | inurl:pageid= | inurl:.php?"
+    },
+    "20":{
+        "img":"https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Free-Image.png",
+        "name":"SSL Server Test",
+        "link":"https://www.ssllabs.com/ssltest/analyze.html?d=domainname"
     }
 }
