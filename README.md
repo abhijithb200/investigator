@@ -16,4 +16,4 @@ Ideas and suggestions to improve the tool are welcome <br>
 
 
 ## Newly added feature
-- SSL Server Test (suggested by <a href="https://www.linkedin.com/in/j0bs0n/">j0bs0n</a>)
+- SSL Server Test (suggested by GH057)
