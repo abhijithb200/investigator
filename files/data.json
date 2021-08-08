@@ -20,7 +20,7 @@
         "link":"https://www.google.com/search?q=site%3Adomainname+intitle%3Aindex.of++%7C+%22parent+directory%22&sxsrf=ALeKk00eh_WPMdkUI6aUbTIJCLkeDVCPrA%3A1627628439626&ei=l6MDYdzaJdDA3LUP766okAk&oq=site%3Akufos.ac.in+intitle%3Aindex.of++%7C+%22parent+directory%22&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGAFQ3hhYuzJg8mpoAXAAeACAAXuIAcEDkgEDMC40mAEAoAEBwAEB&sclient=gws-wiz&ved=0ahUKEwicguG3nIryAhVQILcAHW8XCpIQ4dUDCA8"
     },
     "4":{
-        "img":"https://png2.cleanpng.com/sh/ef3cfd957c0a32368b3af6631fa1c259/L0KzQYm3WMAzN6ZokpH0aYP2gLBuTfNtcaEyeeR9LX3sc8P2kB9nfF5mkud7ZT32gb20hPF1aZNmi9c2bXnmgrF6jBZ1NaR2ReV0aXzvg368gsY0OWJmSKIENkO6QnA8VsE3OWI9T6MAM0O1QYq5U8IxO2k6RuJ3Zx==/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b6311a0096372.5616118715332192320385.png",
+        "img":"https://img.icons8.com/ios/452/database.png",
         "name":"Database related",
         "link":"https://www.google.com/search?q=site%3Adomainname+intext%3A%22sql+syntax+near%22+%7C+intext%3A%22syntax+error+has+occurred%22+%7C+intext%3A%22incorrect+syntax+near%22+%7C+intext%3A%22unexpected+end+of+SQL+command%22+%7C+intext%3A%22Warning%3A+mysql_connect%28%29%22+%7C+intext%3A%22Warning%3A+mysql_query%28%29%22+%7C+intext%3A%22Warning%3A+pg_connect%28%29%22+%7C+filetype%3Asqlext%3Asql+%7C+ext%3Adbf+%7C+ext%3Amdb&sxsrf=ALeKk01Pcmc_IpjufgipkgOqt46Ad9n1qg%3A1627634731457&ei=K7wDYdeoG-7gz7sP8_Cw4AM&oq=site%3Adomainname+intext%3A%22sql+syntax+near%22+%7C+intext%3A%22syntax+error+has+occurred%22+%7C+intext%3A%22incorrect+syntax+near%22+%7C+intext%3A%22unexpected+end+of+SQL+command%22+%7C+intext%3A%22Warning%3A+mysql_connect%28%29%22+%7C+intext%3A%22Warning%3A+mysql_query%28%29%22+%7C+intext%3A%22Warning%3A+pg_connect%28%29%22+%7C+filetype%3Asqlext%3Asql+%7C+ext%3Adbf+%7C+ext%3Amdb&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGABQupoDWLqaA2D-qgNoAHAAeACAAQCIAQCSAQCYAQagAQKgAQHAAQE&sclient=gws-wiz&ved=0ahUKEwiX6vfvs4ryAhVu8HMBHXM4DDwQ4dUDCA8"
     },
@@ -102,6 +102,7 @@
     "20":{
         "img":"https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Free-Image.png",
         "name":"SSL Server Test",
-        "link":"https://www.ssllabs.com/ssltest/analyze.html?d=domainname"
+        "link":"https://www.ssllabs.com/ssltest/analyze.html?d=domainname",
+        "suggested":"Jobson"
     }
 }

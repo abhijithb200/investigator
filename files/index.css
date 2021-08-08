@@ -3,7 +3,16 @@ body{
     height:100%;
     margin: 0;
 }
-
+.headtitle{
+    margin-top: 130px;
+    
+}
+.headtitle h1{
+    text-align:center;
+    font-size:20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:0 360px;
+}
 .container{
     display: flex;
     background-color: black;
@@ -69,7 +78,6 @@ body{
 .cards{
     display:flex;
     margin: 60px;
-    margin-top: 170px;
     flex-wrap: wrap;
     
 }
@@ -107,17 +115,14 @@ body{
     text-decoration: none;
 }
 
-
-
-
-
-
 @media only screen and (max-width: 600px) {
     body {
         font-family: 'Poppins', sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
         background-color:rgb(0, 0, 0);
+        max-width: 90%;
+        max-height: 90%;
     }
     .mobile {
         display:grid;
@@ -156,6 +161,18 @@ body{
         100%{
             background-position: 360px;
         }
+}
+.head_button{
+    margin-left: 40px;
+}
+.search{
+    display: none;
+}
+.input{
+    display: none;
+}
+.cards{
+    display: none;
 }
  .footer{
      position: absolute;
