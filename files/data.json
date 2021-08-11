@@ -102,7 +102,11 @@
     "20":{
         "img":"https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Free-Image.png",
         "name":"SSL Server Test",
-        "link":"https://www.ssllabs.com/ssltest/analyze.html?d=domainname",
-        "suggested":"Jobson"
+        "link":"https://www.ssllabs.com/ssltest/analyze.html?d=domainname"
+    },
+    "21":{
+        "img":"https://upload.wikimedia.org/wikipedia/commons/0/01/Wayback_Machine_logo_2010.svg",
+        "name":"Search in Wayback Machine(Internet Archive)",
+        "link":"https://web.archive.org/web/*/domainname/*"
     }
 }
