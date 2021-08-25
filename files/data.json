@@ -108,5 +108,10 @@
         "img":"https://upload.wikimedia.org/wikipedia/commons/0/01/Wayback_Machine_logo_2010.svg",
         "name":"Search in Wayback Machine(Internet Archive)",
         "link":"https://web.archive.org/web/*/domainname/*"
+    },
+    "22":{
+        "img":"https://static.shodan.io/legal/images/image1.png",
+        "name":"Search in Shodan.io",
+        "link":"https://www.shodan.io/search?query=domainname"
     }
 }
