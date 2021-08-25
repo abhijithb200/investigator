@@ -18,6 +18,7 @@ Ideas and suggestions to improve the tool are welcome <br>
 ## Newly added feature
 - SSL Server Test (suggested by GH057)
 - Wayback Machine Search
+- Search in shodan.io
 
 <br>
 Disclaimer: This project was created for educational purposes only and should not be used in environments without legal authorization.
