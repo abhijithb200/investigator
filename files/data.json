@@ -12,17 +12,17 @@
     "2":{
         "img":"https://upload.wikimedia.org/wikipedia/commons/9/97/Avast_Passwords_logo.png",
         "name":"Password files",
-        "link":"https://www.google.com/search?q=site%3Adomainname+%22password%22+filetype%3Adoc+%7C+filetype%3Apdf+%7C+filetype%3Adocx+%7C+filetype%3Axls+%7C+filetype%3Adat+%7C+filetype%3Alog&sxsrf=ALeKk02ZhKFtCfAnRTa4537XZgPHMsgsnA%3A1627629517013&ei=zacDYcUCxuHPuw_jv65Q&oq=site%3Akufos.ac.in+%22password%22+filetype%3Adoc+%7C+filetype%3Apdf+%7C+filetype%3Adocx+%7C+filetype%3Axls+%7C+filetype%3Adat+%7C+filetype%3Alog&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsANKBAhBGABQyfIBWMqUAmD0lQJoAHADeACAAQCIAQCSAQCYAQigAQHIAQXAAQE&sclient=gws-wiz&ved=0ahUKEwiFnb-5oIryAhXG8HMBHeOfCwoQ4dUDCA8&uact=5"
+        "link":"https://www.google.com/search?q=site:domainname 'password' filetype:doc | filetype:pdf | filetype:docx | filetype:xls | filetype:dat | filetype:log"
     },
     "3":{
         "img":"https://i.ibb.co/0cFWcbL/unnamed.jpg",
         "name":"Directory Listing",
-        "link":"https://www.google.com/search?q=site%3Adomainname+intitle%3Aindex.of++%7C+%22parent+directory%22&sxsrf=ALeKk00eh_WPMdkUI6aUbTIJCLkeDVCPrA%3A1627628439626&ei=l6MDYdzaJdDA3LUP766okAk&oq=site%3Akufos.ac.in+intitle%3Aindex.of++%7C+%22parent+directory%22&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGAFQ3hhYuzJg8mpoAXAAeACAAXuIAcEDkgEDMC40mAEAoAEBwAEB&sclient=gws-wiz&ved=0ahUKEwicguG3nIryAhVQILcAHW8XCpIQ4dUDCA8"
+        "link":"https://www.google.com/search?q=site:domainname intitle:index.of  | 'parent directory'"
     },
     "4":{
         "img":"https://img.icons8.com/ios/452/database.png",
         "name":"Database related",
-        "link":"https://www.google.com/search?q=site%3Adomainname+intext%3A%22sql+syntax+near%22+%7C+intext%3A%22syntax+error+has+occurred%22+%7C+intext%3A%22incorrect+syntax+near%22+%7C+intext%3A%22unexpected+end+of+SQL+command%22+%7C+intext%3A%22Warning%3A+mysql_connect%28%29%22+%7C+intext%3A%22Warning%3A+mysql_query%28%29%22+%7C+intext%3A%22Warning%3A+pg_connect%28%29%22+%7C+filetype%3Asqlext%3Asql+%7C+ext%3Adbf+%7C+ext%3Amdb&sxsrf=ALeKk01Pcmc_IpjufgipkgOqt46Ad9n1qg%3A1627634731457&ei=K7wDYdeoG-7gz7sP8_Cw4AM&oq=site%3Adomainname+intext%3A%22sql+syntax+near%22+%7C+intext%3A%22syntax+error+has+occurred%22+%7C+intext%3A%22incorrect+syntax+near%22+%7C+intext%3A%22unexpected+end+of+SQL+command%22+%7C+intext%3A%22Warning%3A+mysql_connect%28%29%22+%7C+intext%3A%22Warning%3A+mysql_query%28%29%22+%7C+intext%3A%22Warning%3A+pg_connect%28%29%22+%7C+filetype%3Asqlext%3Asql+%7C+ext%3Adbf+%7C+ext%3Amdb&gs_lcp=Cgdnd3Mtd2l6EAxKBAhBGABQupoDWLqaA2D-qgNoAHAAeACAAQCIAQCSAQCYAQagAQKgAQHAAQE&sclient=gws-wiz&ved=0ahUKEwiX6vfvs4ryAhVu8HMBHXM4DDwQ4dUDCA8"
+        "link":"https://www.google.com/search?q=site:domainname intext:'sql syntax near' | intext:'syntax error has occurred' | intext:'incorrect syntax near' | intext:'unexpected end of SQL command' | intext:'Warning: mysql_connect()' | intext:'Warning: mysql_query() | intext:'Warning: pg_connect()' | filetype:sqlext:sql | ext:dbf | ext:mdb"
     },
     "5":{
         "img":"https://www.pinclipart.com/picdir/big/158-1589586_setting-gear-pie-chart-preferences-configure-easy-to.png",
