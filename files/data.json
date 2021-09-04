@@ -113,5 +113,10 @@
         "img":"https://static.shodan.io/legal/images/image1.png",
         "name":"Search in Shodan.io",
         "link":"https://www.shodan.io/search?query=domainname"
+    },
+    "23":{
+        "img":"",
+        "name":"Search in <b><span style='color:purple;font-size:24px;'>//<span>grep.app</b>",
+        "link":"https://grep.app/search?q=domainname"
     }
 }
