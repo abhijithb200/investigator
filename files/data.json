@@ -1,116 +1,116 @@
 {
     "0":{
-        "img":"https://www.wordfence.com/wp-content/uploads/2018/02/RedirectIcon.png",
+        "img":"images/01.png",
         "name":"Open Redirect",
         "link":"https://www.google.com/search?q=site:domainname%20inurl:redir%20|%20inurl:url%20|%20inurl:redirect%20|%20inurl:return%20|%20inurl:src=http%20|%20inurl:r=http"
     },
     "1":{
-        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvrPQtHibo-m5ar32CStsU7w_2fh7UrVRRcA&usqp=CAU",
+        "img":"images/02.png",
         "name":"Robot txt",
         "link":"https://www.google.com/search?q=domainname+robots.txt"
     },
     "2":{
-        "img":"https://upload.wikimedia.org/wikipedia/commons/9/97/Avast_Passwords_logo.png",
+        "img":"images/03.png",
         "name":"Password files",
         "link":"https://www.google.com/search?q=site:domainname 'password' filetype:doc | filetype:pdf | filetype:docx | filetype:xls | filetype:dat | filetype:log"
     },
     "3":{
-        "img":"https://i.ibb.co/0cFWcbL/unnamed.jpg",
+        "img":"images/04.jpg",
         "name":"Directory Listing",
         "link":"https://www.google.com/search?q=site:domainname intitle:index.of  | 'parent directory'"
     },
     "4":{
-        "img":"https://img.icons8.com/ios/452/database.png",
+        "img":"images/05.png",
         "name":"Database related",
         "link":"https://www.google.com/search?q=site:domainname intext:'sql syntax near' | intext:'syntax error has occurred' | intext:'incorrect syntax near' | intext:'unexpected end of SQL command' | intext:'Warning: mysql_connect()' | intext:'Warning: mysql_query() | intext:'Warning: pg_connect()' | filetype:sqlext:sql | ext:dbf | ext:mdb"
     },
     "5":{
-        "img":"https://www.pinclipart.com/picdir/big/158-1589586_setting-gear-pie-chart-preferences-configure-easy-to.png",
+        "img":"images/06.png",
         "name":"Config and log files",
         "link":"https://www.google.com/search?q=site:domainname ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini | ext:log"
     },
     "6":{
-        "img":"https://www.pngplay.com/wp-content/uploads/6/Backup-Logo-Transparent-Background.png",
+        "img":"images/07.png",
         "name":"Backup files",
         "link":"https://www.google.com/search?q=site:domainname ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup"
     },
     "7":{
-        "img":"https://pic.onlinewebfonts.com/svg/img_382078.png",
+        "img":"images/08.png",
         "name":"Login Pages",
         "link":"https://www.google.com/search?q=site:domainname inurl:login | inurl:signin | intitle:Login | intitle: signin | inurl:auth"
     },
     "8":{
-        "img":"https://hackr.io/tutorials/learn-php/logo/logo-phpx",
+        "img":"images/09.png",
         "name":"phpinfo()",
         "link":"https://google.com/search?q=site:domainname ext:php intitle:phpinfo 'published by the PHP Group'"
     },
     "9":{
-        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+        "img":"images/10.png",
         "name":"Search in GitHub",
         "link":"https://github.com/search?q=domainname"
     },
     "10":{
-        "img":"https://static.thenounproject.com/png/2435355-200.png",
+        "img":"images/11.png",
         "name":"Find subdomains",
         "link":"https://google.com/search?q=site:*.domainname"
     },
     "11":{
-        "img":"https://reverse-ip.whoisxmlapi.com/products-vue-assets/public/images/reverse-ip/api/fav.png",
+        "img":"images/12.png",
         "name":"Reverse ip lookup",
         "link":"https://viewdns.info/reverseip/?host=domainname&t=1"
     },
     "12":{
-        "img":"https://i.ibb.co/HVJrS8F/12831199-s-280-v-4.png",
+        "img":"images/13.png",
         "name":"Search in crt.sh",
         "link":"https://crt.sh/?q=domainname"
     },
     "13":{
-        "img":"https://i.ibb.co/KjcXv3H/pngwing-com.png",
+        "img":"images/14.png",
         "name":"S3 Bucket",
         "link":"https://google.com/search?q=site:.s3.amazonaws.com 'domainname'"
     },
     "14":{
-        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png",
+        "img":"images/15.png",
         "name":"Search in StackOverflow",
         "link":"https://google.com/search?q=site:stackoverflow.com 'domainname'"
     },
     "15":{
-        "img":"https://upload.wikimedia.org/wikipedia/en/3/35/Pastebin.com_logo.png",
+        "img":"images/16.png",
         "name":"Search in pasting sites",
         "link":"https://google.com/search?q=site:pastebin.com | site:paste2.org | site:pastehtml.com | site:slexy.org | site:snipplr.com | site:snipt.net | site:textsnip.com | site:bitpaste.app | site:justpaste.it | site:heypasteit.com | site:hastebin.com | site:dpaste.org | site:dpaste.com | site:codepad.org | site:jsitor.com | site:codepen.io | site:jsfiddle.net | site:dotnetfiddle.net | site:phpfiddle.org | site:ide.geeksforgeeks.org | site:repl.it | site:ideone.com | site:paste.debian.net | site:paste.org | site:paste.org.ru | site:codebeautify.org  | site:codeshare.io | site:trello.com 'domainname'"
     },
     "16":{
-        "img":"https://www.lenarjisse.com/images/cms-logo.png",
+        "img":"images/17.png",
         "name":"What CMS?",
         "link":"https://whatcms.org/?s=domainname"
     },
     "17":{
-        "img":"https://pngimg.com/uploads/wordpress/wordpress_PNG6.png",
+        "img":"images/18.png",
         "name":"WordPress Contents",
         "link":"https://google.com/search?q=site:domainname inurl:wp- | inurl:wp-content | inurl:plugins | inurl:uploads | inurl:themes | inurl:download"
     },
     "18":{
-        "img":"https://pngimg.com/uploads/wordpress/wordpress_PNG6.png",
+        "img":"images/18.png",
         "name":"Wordpress deep search",
         "link":"http://wwwb-dedup.us.archive.org:8083/cdx/search?url=domainname/&matchType=domain&collapse=digest&output=text&fl=original,timestamp&filter=urlkey:.*wp[-].*&limit=1000000&xx="
     },
     "19":{
-        "img":"https://static.thenounproject.com/png/635998-200.png",
+        "img":"images/19.png",
         "name":"Vulnerable search string",
         "link":"https://google.com/search?q=site:domainname inurl:php?=id1 | inurl:index.php?id= | inurl:pageid= | inurl:.php?"
     },
     "20":{
-        "img":"https://www.pngall.com/wp-content/uploads/2/SSL-PNG-Free-Image.png",
+        "img":"images/20.png",
         "name":"SSL Server Test",
         "link":"https://www.ssllabs.com/ssltest/analyze.html?d=domainname"
     },
     "21":{
-        "img":"https://upload.wikimedia.org/wikipedia/commons/0/01/Wayback_Machine_logo_2010.svg",
+        "img":"images/21.svg",
         "name":"Search in Wayback Machine(Internet Archive)",
         "link":"https://web.archive.org/web/*/domainname/*"
     },
     "22":{
-        "img":"https://static.shodan.io/legal/images/image1.png",
+        "img":"images/22.png",
         "name":"Search in Shodan.io",
         "link":"https://www.shodan.io/search?query=domainname"
     },
@@ -118,5 +118,10 @@
         "img":"",
         "name":"Search in <b><span style='color:purple;font-size:24px;'>//<span>grep.app</b>",
         "link":"https://grep.app/search?q=domainname"
+    },
+    "24":{
+        "img":"images/23.png",
+        "name":"Check Security Headers",
+        "link":"https://securityheaders.com/?q=domainname&followRedirects=on"
     }
 }

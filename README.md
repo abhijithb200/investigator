@@ -20,6 +20,7 @@ Ideas and suggestions to improve the tool are welcome <br>
 - Wayback Machine Search
 - Search in shodan.io
 - Search in grep.app
+- Check Security Headers
 
 <br>
 Disclaimer: This project was created for educational purposes only and should not be used in environments without legal authorization.
