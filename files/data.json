@@ -12,17 +12,17 @@
     "2":{
         "img":"images/03.png",
         "name":"Password files",
-        "link":"https://www.google.com/search?q=site:domainname 'password' filetype:doc | filetype:pdf | filetype:docx | filetype:xls | filetype:dat | filetype:log"
+        "link":"https://www.google.com/search?q=site:domainname \"password\" filetype:doc | filetype:pdf | filetype:docx | filetype:xls | filetype:dat | filetype:log"
     },
     "3":{
         "img":"images/04.jpg",
         "name":"Directory Listing",
-        "link":"https://www.google.com/search?q=site:domainname intitle:index.of  | 'parent directory'"
+        "link":"https://www.google.com/search?q=site:domainname intitle:index.of  | \"parent directory\""
     },
     "4":{
         "img":"images/05.png",
         "name":"Database related",
-        "link":"https://www.google.com/search?q=site:domainname intext:'sql syntax near' | intext:'syntax error has occurred' | intext:'incorrect syntax near' | intext:'unexpected end of SQL command' | intext:'Warning: mysql_connect()' | intext:'Warning: mysql_query() | intext:'Warning: pg_connect()' | filetype:sqlext:sql | ext:dbf | ext:mdb"
+        "link":"https://www.google.com/search?q=site:domainname intext:\"sql syntax near\" | intext:\"syntax error has occurred\" | intext:\"incorrect syntax near\" | intext:\"unexpected end of SQL command\" | intext:\"Warning: mysql_connect()\" | intext:\"Warning: mysql_query()\" | intext:\"Warning: pg_connect()\" | filetype:sqlext:sql | ext:dbf | ext:mdb"
     },
     "5":{
         "img":"images/06.png",
@@ -42,7 +42,7 @@
     "8":{
         "img":"images/09.png",
         "name":"phpinfo()",
-        "link":"https://google.com/search?q=site:domainname ext:php intitle:phpinfo 'published by the PHP Group'"
+        "link":"https://google.com/search?q=site:domainname ext:php intitle:phpinfo \"published by the PHP Group\""
     },
     "9":{
         "img":"images/10.png",
@@ -67,17 +67,17 @@
     "13":{
         "img":"images/14.png",
         "name":"S3 Bucket",
-        "link":"https://google.com/search?q=site:.s3.amazonaws.com 'domainname'"
+        "link":"https://google.com/search?q=site:.s3.amazonaws.com \"domainname\""
     },
     "14":{
         "img":"images/15.png",
         "name":"Search in StackOverflow",
-        "link":"https://google.com/search?q=site:stackoverflow.com 'domainname'"
+        "link":"https://google.com/search?q=site:stackoverflow.com \"domainname\""
     },
     "15":{
         "img":"images/16.png",
         "name":"Search in pasting sites",
-        "link":"https://google.com/search?q=site:pastebin.com | site:paste2.org | site:pastehtml.com | site:slexy.org | site:snipplr.com | site:snipt.net | site:textsnip.com | site:bitpaste.app | site:justpaste.it | site:heypasteit.com | site:hastebin.com | site:dpaste.org | site:dpaste.com | site:codepad.org | site:jsitor.com | site:codepen.io | site:jsfiddle.net | site:dotnetfiddle.net | site:phpfiddle.org | site:ide.geeksforgeeks.org | site:repl.it | site:ideone.com | site:paste.debian.net | site:paste.org | site:paste.org.ru | site:codebeautify.org  | site:codeshare.io | site:trello.com 'domainname'"
+        "link":"https://google.com/search?q=site:pastebin.com | site:paste2.org | site:pastehtml.com | site:slexy.org | site:snipplr.com | site:snipt.net | site:textsnip.com | site:bitpaste.app | site:justpaste.it | site:heypasteit.com | site:hastebin.com | site:dpaste.org | site:dpaste.com | site:codepad.org | site:jsitor.com | site:codepen.io | site:jsfiddle.net | site:dotnetfiddle.net | site:phpfiddle.org | site:ide.geeksforgeeks.org | site:repl.it | site:ideone.com | site:paste.debian.net | site:paste.org | site:paste.org.ru | site:codebeautify.org  | site:codeshare.io | site:trello.com \"domainname\""
     },
     "16":{
         "img":"images/17.png",
